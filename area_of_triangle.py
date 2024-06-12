@@ -1,4 +1,5 @@
-#Aswad Akram (Assignment #02)
+'''Aswad Akram (Assignment #02)
+Area Of Triangle'''
 
 def calculate_triangle_area(base, height):
     area = 0.5 * base * height
